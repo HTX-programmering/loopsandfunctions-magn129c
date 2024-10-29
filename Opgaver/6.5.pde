@@ -1,4 +1,4 @@
-String str = "Dette er en sætning, som indeholder mange e'er";
+String str = "Dette er en sætning, som indeholder mange e'er. Men hvor mange er der?";
 
 int antalEer = 0;
 
