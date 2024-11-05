@@ -6,9 +6,11 @@ for(int i = 0; i<str.length(); i++) {
   
   if(str.charAt(i) == 'e' || str.charAt(i) == 'E') {
     antalEer++;
+    System.out.println(str.charAt(i);
   } 
 }
 
+System.out.println("Sætningen er " + str.length() + " lang";
 System.out.println(antalEer);
 
 
@@ -19,9 +21,11 @@ while(i<str.length()) {
   
   if(str.charAt(i) == 'e') {
     antalEer++;
+    System.out.println(str.charAt(i);
   }
   i++;
   
 }
 
+System.out.println("Sætningen er " + str.length() + " lang";
 System.out.println(antalEer);
